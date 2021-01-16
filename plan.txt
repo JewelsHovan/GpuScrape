@@ -1,0 +1,11 @@
+1. Newegg/Bestbuy -> offers best prices and reliable shipping
+
+2. Limitations -> scrape for price or availablility -> probably implement a both -> if its available and price (price can be 1.x of MSP that we can deem)
+
+3. Do you want to enter our card info -> harder to implement and we really don't want bot mass buying -> probably better to just give a notification but also give a link so we can access it fast
+
+4. Language -> python selenium -> an ok choice -> however takes more memory with a browser, however button interactions is easier -> the sites might have protection against selenium bots however -> its good choice since could run it on second pc.
+
+- Javascript least experience but could be strongest for this -> need to learn more definitely
+
+5.
